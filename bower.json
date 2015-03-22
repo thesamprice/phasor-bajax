@@ -1,0 +1,22 @@
+{
+  "name": "phasor-bajax",
+  "version": "0.0.0",
+  "authors": [
+    "Sam Price <thesamprice@gmail.com>"
+  ],
+  "description": "Helper script for talking to embedded webservers via binary ajax calls.",
+  "main": "src/phasor_bajax.js",
+  "keywords": [
+    "Binary",
+    "AJAX"
+  ],
+  "license": "BSD",
+  "homepage": "www.phasor.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
